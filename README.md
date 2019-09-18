@@ -1,2 +1,2 @@
-# Symbolic++
-Symbolic calculus for C++
+# Symbolic++: symbolic calculus for C++
+
