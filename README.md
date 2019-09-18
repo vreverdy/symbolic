@@ -1,2 +1,2 @@
-# symbolic
-Symbolic mathematical expressions in C++
+# Symbolic++
+Symbolic calculus for C++
